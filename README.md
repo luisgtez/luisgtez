@@ -9,6 +9,9 @@ I'm a developer with a strong drive to learn new frameworks, languages, and expl
 * 🌍  I'm based in Asturias, Spain
 * ✉️  You can contact me at [luismarkgo@gmail.com](mailto:luismarkgo@gmail.com)
 * 🤝  I'm open to collaborating on data-driven projects, machine learning applications, automation tools, data analysis projects and web apps that solve real-world problems.
+* ⚡  About me, I have a cat 😼, I like baking and doing TV shows marathons.
+
+
 
 ### Languages
 <p align="left">
